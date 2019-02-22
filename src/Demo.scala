@@ -12,4 +12,5 @@ object Demo {
   def sumUp2(a: Int, b: Int): Int = {
     a + b
   }
+
 }
